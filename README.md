@@ -20,4 +20,4 @@ Requirements
 ## Links
 -[Github](https://github.com/heintze11/e-commerce-back-end)
 
--[Video Walkthrough](https://watch.screencastify.com/v/aO90KhcZzZpS4e0joAGW)
+-[Video Walkthrough](https://watch.screencastify.com/v/SA1dIjed34htziujPhVq)
